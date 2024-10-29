@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mornhouse</string>
+    <string name="number_fact">Number Fact</string>
+    <string name="back">Back</string>
+    <string name="please_enter_a_number">Please enter a number</string>
+    <string name="get_fact">Get Fact</string>
+    <string name="history">History</string>
+    <string name="get_random_number_fact">Get Random Number Fact</string>
+    <string name="number">Number: %1$s</string>
+</resources>
